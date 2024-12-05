@@ -1,4 +1,11 @@
 # Time Series Foundation Models Research at Auton Lab
+Time Series Foundation Models are extremely recent. They have shown promising performance across tasks and domains. At the Auton Lab, we are working on building next generation Time Series Foundation Models, and bringing them closer to practice.
+
+<div align="center">
+<img width="60%" alt="Time Series Foundation Models are extremely recent" src="https://github.com/user-attachments/assets/fd30b335-11db-44ff-a254-4e86f95bb664">
+
+  <img width="60%" alt="Bringing MOMENT closer to practice" src="https://github.com/user-attachments/assets/5b08b1c8-6fec-4f31-bd0b-8552fbba24bb">
+</div>
 
 ### About the Auton Lab
 The Auton Lab, part of Carnegie Mellon University’s School of Computer Science, develops Artificial Intelligence for practical solutions to real world problems.
@@ -6,7 +13,7 @@ The Auton Lab, part of Carnegie Mellon University’s School of Computer Science
 ### Open Source Time Series Datasets & Models
 1. HuggingFace: https://huggingface.co/AutonLab
 
-### Recent Papers
+### 📖 Recent Papers
 1. Potosnak, Willa, Cristian Challu, Mononito Goswami, Michal Wilinski, Nina Zukowska, and Artur Dubrawski. “Implicit Reasoning in Deep Time Series Forecasting.” In NeurIPS 2024 Workshop on System 2 Reasoning At Scale and NeurIPS 2024 Workshop on Time Series in the Age of Large Models. [[PDF]](https://arxiv.org/pdf/2409.10840) 
 2. Michal Wilinski, Mononito Goswami, Nina Zukowska, Willa Potosnak, and Artur Dubrawski. “Exploring Representations and Interventions in Time Series Foundation Models.” In NeurIPS 2024 Workshop on Fine-Tuning in Modern Machine Learning: Principles and Scalability and NeurIPS 2024 Workshop on Time Series in the Age of Large Models. [[PDF]](https://arxiv.org/pdf/2409.12915)
 3. Zukowska, Nina, Mononito Goswami, Michal Wilinski, Willa Potosnak, and Artur Dubrawski. “Towards Long-Context Time Series Foundation Models.” In NeurIPS 2024 Workshop on Fine-Tuning in Modern Machine Learning: Principles and Scalability and NeurIPS 2024 Workshop on Time Series in the Age of Large Models. [[PDF]](https://arxiv.org/pdf/2409.13530?)
@@ -16,6 +23,8 @@ The Auton Lab, part of Carnegie Mellon University’s School of Computer Science
 7. Cai, Yifu, Mononito Goswami, Arjun Choudhry, Arvind Srinivasan and Artur Dubrawski. “JoLT: Jointly Learned Representations of Language and Time-Series.” Neural Information Processing Systems Workshop on Deep Generative Models for Health (DGM4H NeurIPS) (2023) (Poster) [[PDF]](https://openreview.net/pdf?id=UVF1AMBj9u)
 8. Goswami, Mononito, Konrad Szafer, Arjun Choudhry, Yifu Cai, Shuo Li, and Artur Dubrawski. "MOMENT: A Family of Open Time-series Foundation Models." In Forty-first International Conference on Machine Learning. 2024 [[PDF]](https://arxiv.org/pdf/2402.03885)
 
-
-
-
+<div align="center">
+<img height ="120px" src="cmu_logo.png">
+<img height ="110px" src="autonlab_logo.png">
+<img height ="110px" src="MOMENT Logo.png">
+</div>
