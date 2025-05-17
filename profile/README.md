@@ -24,7 +24,7 @@ The Auton Lab, part of Carnegie Mellon University’s School of Computer Science
 8. Goswami, Mononito, Konrad Szafer, Arjun Choudhry, Yifu Cai, Shuo Li, and Artur Dubrawski. "MOMENT: A Family of Open Time-series Foundation Models." In Forty-first International Conference on Machine Learning. 2024 [[PDF]](https://arxiv.org/pdf/2402.03885)
 
 <div align="center">
-<img height ="120px" src="cmu_logo.png">
-<img height ="110px" src="autonlab_logo.png">
-<img height ="110px" src="MOMENT Logo.png">
+<img height ="120px" src="../cmu_logo.png">
+<img height ="110px" src="../autonlab_logo.png">
+<img height ="110px" src="../MOMENT Logo.png">
 </div>
