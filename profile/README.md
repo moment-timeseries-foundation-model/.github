@@ -1,4 +1,4 @@
-# Time Series Foundation Models Research at Auton Lab
+# Generative AI for Structured Data at Auton Lab
 Time Series Foundation Models are extremely recent. They have shown promising performance across tasks and domains. At the Auton Lab, we are working on building next generation Time Series Foundation Models, and bringing them closer to practice.
 
 <div align="center">
